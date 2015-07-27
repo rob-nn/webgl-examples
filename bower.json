@@ -1,0 +1,7 @@
+{
+	"name": "opengl exercices",
+	"version": "0.0", 
+	"dependencies": {
+		"threejs" : ""
+	}
+}
